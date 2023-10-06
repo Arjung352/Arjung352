@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arjung352-(Arjun Gupta)
-- currently persuing bca from IPU 
-- 👀 I’m interested in full-stack webdev,android development 
-- 🌱 I’m currently learning Front-end web development
+- currently persuing bca from IPU-SGTBIMIT
+- 👀 I’m interested in Full-stack Webdev,Android Development 
+- 🌱 I’m currently learning Front-end Web Development
 - 📫 You can contact me on my
 - e-mail:-(Arjung7751@gmail.com)
