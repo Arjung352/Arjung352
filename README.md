@@ -9,18 +9,18 @@
 
 - 📝 I regularly write articles on [https://blogingdotblog.netlify.app](https://blogingdotblog.netlify.app)
 
-- 💬 Ask me about **Full Stack**
+- 🛠️ Currently working on [https://taste-buds-treat.vercel.app](https://taste-buds-treat.vercel.app/)
 
-- 📫 How to reach me **arjung7751@gmail.com**
+- 💬 Ask me about **Full Stack Web Development**
+
+- 📫 How to reach me **arjung.dev29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_arjungupta29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_arjungupta29" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/arjun-gupta-948b11291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-gupta-948b11291/" height="30" width="40" /></a>
 <a href="https://instagram.com/_arjungupta29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arjungupta29" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/arjung7751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/arjung7751" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/arjung7751/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arjung7751/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@arjung7751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@arjung7751" height="30" width="40" /></a>
 <a href="https://discord.gg/Arjun Gupta#2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Arjun Gupta#2016" height="30" width="40" /></a>
 </p>
 
