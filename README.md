@@ -2,9 +2,6 @@
 🌱 I’m currently learning DevOps & DSA<br><br>📝 I regularly write articles on https://blogingdotblog.netlify.app<br><br>🛠️ Currently working on https://taste-buds-treat.vercel.app<br><br>💬 Ask me about Full Stack Web Development<br><br>📫 How to reach me arjung.dev29@gmail.com
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arjun352" alt="Arjun352" /></a> </p>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-gupta-948b11291/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_arjungupta29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjun.dev29@gmail.com) 
 
