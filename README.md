@@ -1,33 +1,238 @@
-<h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">Software Engineer with a passion for building dynamic and responsive applications.</h3>
+# Arjun Gupta
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjung352&label=Profile%20views&color=0e75b6&style=flat" alt="arjung352" /> </p>
+**I build full-stack applications with a focus on backend engineering, security, and systems that work beyond the happy path.**
 
-- 🔭 I’m currently working on [CodeCanvas](https://code-canva-six.vercel.app/)
+MCA Scholar · **C-DAC Noida (GGSIPU)** · Class of 2027
 
-- 🌱 I’m currently learning **DevOps & DSA**
+[Portfolio](https://arjun-gupta-developer.vercel.app/) &nbsp;·&nbsp;
+[LinkedIn](https://linkedin.com/in/arjun-gupta-948b11291) &nbsp;·&nbsp;
+[LeetCode](https://www.leetcode.com/arjung7751) &nbsp;·&nbsp;
+[HackerRank](https://www.hackerrank.com/arjung7751) &nbsp;·&nbsp;
+[Email](mailto:arjung.dev29@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://arjun-gupta-developer.vercel.app/](https://arjun-gupta-developer.vercel.app/)
+```console
+$ whoami
+Arjun Gupta — Software Engineer in progress
 
-- 📝 I regularly write articles on [https://blogingdotblog.netlify.app/](https://blogingdotblog.netlify.app/)
+$ focus
+Full-stack engineering · Backend systems · DSA · DevOps
+```
 
-- 💬 Ask me about **React, Next.js, Node.js, Express.js, TypeScript, PostgreSQL, MongoDB, Docker and DevOps**
+I care about the parts of software engineering that are easy to overlook: authorization boundaries, data consistency, validation, failure handling, and deployment. My projects are where I work through those problems, from designing REST APIs to connecting authentication, databases, and third-party services.
 
-- 📫 How to reach me **arjung.dev29@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arjun-gupta-948b11291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-gupta-948b11291" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arjung7751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjung7751" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arjung7751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjung7751" height="30" width="40" /></a>
-</p>
+## What I'm building
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
+### [Code Canvas](https://code-canva-six.vercel.app/) &nbsp;·&nbsp; <sub>Collaborative development platform</sub>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=arjung352&theme=tokyonight" alt="GitHub Streak" />
-</p>
+A collaborative coding workspace designed to bring code editing and developer communication together. The project explores the engineering behind a shared development environment, including authentication, database-backed application state, and real-time collaboration.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**The engineering focus:** managing shared state, designing the data model, organizing application features, and understanding how real-time communication fits into a full-stack system.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · PostgreSQL · Prisma · Clerk
+
+```mermaid
+flowchart LR
+    U["Developers"] --> UI["Next.js Application"]
+    UI --> AUTH["Clerk Authentication"]
+    UI --> API["Application Logic"]
+    API --> DB[("PostgreSQL")]
+    API --> RT["Real-time Collaboration"]
+    RT <--> U
+```
+
+### [TasteBudsTreat](https://taste-buds-treat.vercel.app/) &nbsp;·&nbsp; <sub>MERN food ordering platform</sub>
+
+A food ordering application built as a college team project. It supports customer ordering workflows, restaurant management, menu browsing, and administrative functionality.
+
+The project brings together several backend concerns that are useful beyond a basic CRUD application:
+
+- **Authentication and role-based access:** Clerk-powered authentication and role-specific customer, restaurant, and admin experiences.
+- **Order and payment workflows:** Razorpay integration, with webhook handling designed around order references and duplicate-event protection.
+- **Cart management:** Redux-based state management with local storage persistence.
+- **Menu discovery:** Filtering by cuisine and vegetarian/non-vegetarian options, alongside pagination.
+- **Media and notifications:** Cloudinary image handling and email notifications through Nodemailer.
+- **Conversational interface:** Gemini-powered food-ordering chatbot.
+
+**Stack:** React · Node.js · Express.js · MongoDB · PostgreSQL · Clerk · Razorpay · Redux · Cloudinary · Nodemailer · Gemini
+
+```mermaid
+flowchart LR
+    CUSTOMER["Customer / Restaurant / Admin"]
+    UI["React Frontend"]
+    API["Express REST API"]
+    AUTH["Clerk Authentication"]
+    ORDER["Order and Payment Logic"]
+    DB[("MongoDB")]
+    SQL[("PostgreSQL")]
+    PAY["Razorpay"]
+    MEDIA["Cloudinary"]
+    EMAIL["Nodemailer"]
+    AI["Gemini Chatbot"]
+
+    CUSTOMER --> UI
+    UI --> API
+    API --> AUTH
+    API --> ORDER
+    ORDER <--> DB
+    API <--> SQL
+    ORDER <--> PAY
+    API <--> MEDIA
+    API --> EMAIL
+    UI <--> AI
+```
+
+### FinTrack API &nbsp;·&nbsp; <sub>Finance management backend</sub>
+
+A REST API focused on financial records, access control, and predictable request handling. This project is where I work on backend fundamentals that matter when different users need different levels of access to sensitive application data.
+
+**What it covers:**
+
+- **JWT authentication:** token-based authentication with password hashing using bcrypt.
+- **Role-based access control:** separate `VIEWER`, `ANALYST`, and `ADMIN` permissions.
+- **Input validation:** Zod schemas for validating incoming data.
+- **Rate limiting:** fixed-window request limiting to reduce excessive traffic.
+- **Database access:** Prisma ORM with PostgreSQL.
+- **API documentation:** Swagger UI through `/api-docs`.
+- **Deployment:** Docker-based containerization and deployment troubleshooting.
+
+I chose PostgreSQL for its relational data model and transaction guarantees, which suit financial records and structured relationships.
+
+**Stack:** Node.js · Express.js · PostgreSQL · Prisma · JWT · bcrypt · Zod · Docker · Swagger · Postman
+
+```mermaid
+flowchart LR
+    CLIENT["API Client"] --> API["Express REST API"]
+    API --> RATE["Rate Limiter"]
+    RATE --> AUTH["JWT Authentication"]
+    AUTH --> RBAC["Role Authorization"]
+    RBAC --> ROUTES["Protected Routes"]
+    ROUTES --> VALIDATE["Input Validation"]
+    VALIDATE --> PRISMA["Prisma ORM"]
+    PRISMA --> DB[("PostgreSQL")]
+    API -.-> DOCS["Swagger UI"]
+```
+
+---
+
+## Read the code, not the résumé
+
+A technology list tells you what someone has used. The more useful question is how they apply it.
+
+These are the implementation decisions I focus on across my projects:
+
+| Engineering concern | How I approach it |
+|---|---|
+| Authentication | Separate identity verification from application authorization. |
+| Authorization | Enforce role permissions on protected backend operations, not just in the UI. |
+| API validation | Validate incoming data before it reaches business logic or database operations. |
+| Payment processing | Account for webhook retries and duplicate events when updating order state. |
+| Data modeling | Choose relational or document-based storage based on the data and access patterns. |
+| Error handling | Return meaningful HTTP status codes and consistent API responses. |
+| Rate limiting | Put request limits in the request pipeline to reduce abuse. |
+| Deployment | Use Docker and deployment tooling to make application environments more reproducible. |
+
+These are engineering principles reflected in my project work, not a claim that every project implements every item identically.
+
+---
+
+## How I approach engineering
+
+- **Security belongs on the backend.** Hiding a button is not authorization. Protected operations need server-side checks.
+- **Validate at the boundary.** Invalid requests should be rejected before they cause inconsistent state.
+- **Think about retries.** Payment callbacks and other external events can be delivered more than once.
+- **Choose the right data model.** Relational integrity and flexible document structures solve different problems.
+- **Make APIs understandable.** Clear resource boundaries, consistent responses, and API documentation improve maintainability.
+- **Test failure cases.** Negative values, missing fields, unauthorized requests, duplicate events, and invalid state transitions deserve attention.
+- **Learn by shipping.** Building, deploying, debugging, and revisiting implementation decisions is part of becoming a better engineer.
+
+---
+
+## Stack
+
+<details>
+<summary><b>Languages and frontend</b></summary>
+
+<br>
+
+| Area | Technologies |
+|---|---|
+| Languages | Java · JavaScript · TypeScript · C++ · Python · SQL |
+| Frontend | React · Next.js · Redux · HTML5 · CSS3 |
+| Styling and UI | Tailwind CSS · Material UI · Bootstrap |
+| Routing and forms | React Router · React Hook Form |
+
+</details>
+
+<details>
+<summary><b>Backend and databases</b></summary>
+
+<br>
+
+| Area | Technologies |
+|---|---|
+| Backend | Node.js · Express.js · REST APIs |
+| Databases | PostgreSQL · MongoDB · MySQL |
+| ORM and data access | Prisma |
+| Authentication | JWT · Clerk · bcrypt |
+| Validation and security | Zod · RBAC · Rate limiting |
+| Integrations | Razorpay · Cloudinary · Nodemailer · Gemini |
+| API testing and documentation | Postman · Swagger |
+
+</details>
+
+<details>
+<summary><b>DevOps and development tools</b></summary>
+
+<br>
+
+| Area | Technologies |
+|---|---|
+| Containers | Docker |
+| CI/CD | GitHub Actions · Jenkins |
+| Cloud and deployment | AWS · Vercel · Netlify |
+| Infrastructure and networking | Nginx · Kubernetes |
+| Development environment | Linux · Bash · Git · GitHub |
+| Other tools | npm · Windows Terminal |
+
+</details>
+
+---
+
+## Beyond projects
+
+### Data structures and algorithms
+
+I practise DSA consistently to improve problem-solving, algorithmic thinking, and implementation skills.
+
+- [LeetCode](https://www.leetcode.com/arjung7751)
+- [HackerRank](https://www.hackerrank.com/arjung7751)
+
+My focus is on understanding the reasoning behind a solution, including time complexity, space complexity, edge cases, and alternative approaches.
+
+### Currently learning
+
+- **DevOps:** Linux fundamentals, Docker, CI/CD, and deployment workflows.
+- **DSA:** Problem-solving patterns, data structures, and algorithm analysis.
+- **Backend engineering:** API design, authentication, authorization, data modeling, and reliability.
+
+---
+
+## Other work
+
+Explore more projects, experiments, and development work through my [portfolio](https://arjun-gupta-developer.vercel.app/) and [GitHub profile](https://github.com/arjung352).
+
+I also publish articles on [DotBlog](https://blogingdotblog.netlify.app/).
+
+---
+
+<div align="center">
+
+**Open to software engineering, backend development, and full-stack opportunities.**
+
+[Portfolio](https://arjun-gupta-developer.vercel.app/) &nbsp;·&nbsp;
+[LinkedIn](https://linkedin.com/in/arjun-gupta-948b11291) &nbsp;·&nbsp;
+[Email me](mailto:arjung.dev29@gmail.com)
+
+</div>
