@@ -116,7 +116,7 @@ flowchart LR
 
 ---
 
-## Read the code, not the résumé
+## Engineering decisions, explained
 
 A technology list tells you what someone has used. The more useful question is how they apply it.
 
