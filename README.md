@@ -22,7 +22,7 @@ I care about the parts of software engineering that are easy to overlook: author
 
 ---
 
-## What I'm building
+## Featured Projects
 
 ### [Code Canvas](https://code-canva-six.vercel.app/) &nbsp;·&nbsp; <sub>Collaborative development platform</sub>
 
