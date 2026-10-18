@@ -59,28 +59,66 @@ The project brings together several backend concerns that are useful beyond a ba
 
 ```mermaid
 flowchart LR
-    CUSTOMER["Customer / Restaurant / Admin"]
-    UI["React Frontend"]
-    API["Express REST API"]
-    AUTH["Clerk Authentication"]
-    ORDER["Order and Payment Logic"]
-    DB[("MongoDB")]
-    SQL[("PostgreSQL")]
-    PAY["Razorpay"]
-    MEDIA["Cloudinary"]
-    EMAIL["Nodemailer"]
-    AI["Gemini Chatbot"]
+    %% Frontend
+    FE["React 18 + Tailwind CSS<br/>Customer UI • Restaurant UI • Admin UI"]
 
-    CUSTOMER --> UI
-    UI --> API
-    API --> AUTH
-    API --> ORDER
-    ORDER <--> DB
-    API <--> SQL
-    ORDER <--> PAY
-    API <--> MEDIA
-    API --> EMAIL
-    UI <--> AI
+    %% CI/CD
+    CI["GitHub Actions<br/>Docker build / deploy"]
+
+    %% Backend API
+    subgraph API["Express REST API"]
+        direction LR
+        SEC["CORS +<br/>Security Headers"]
+        AUTH["Clerk Auth<br/>Middleware"]
+        ROUTES["Cart / Restaurant /<br/>Menu / User Routes"]
+        CTRL["Controllers +<br/>Validation"]
+        ORDER["Order &<br/>Payment Logic"]
+
+        SEC --> AUTH --> ROUTES --> CTRL --> ORDER
+    end
+
+    %% Database
+    DB[("MongoDB<br/>Cart • Restaurant •<br/>Menu • Users • Orders")]
+
+    %% External services
+    CLERK["Clerk<br/>Authentication"]
+    RAZOR["Razorpay<br/>Payments"]
+    CLOUD["Cloudinary<br/>Image Uploads"]
+    EMAIL["Gmail<br/>Email"]
+    GEMINI["Gemini<br/>Food Chatbot"]
+
+    %% Main request flow
+    FE -->|"HTTPS / REST JSON"| SEC
+    ORDER <-->|"CRUD"| DB
+
+    %% External service interactions
+    CLERK <-->|"Identity / Auth"| AUTH
+    ORDER <-->|"Create & verify payments"| RAZOR
+    CTRL <-->|"Upload / retrieve images"| CLOUD
+    CTRL -->|"Send email"| EMAIL
+    ROUTES <-->|"Chatbot requests / responses"| GEMINI
+
+    %% Deployment flow
+    CI -.->|"CI/CD • Build & deploy"| API
+    CI -.->|"Frontend deployment"| FE
+
+    %% Chatbot UI interaction
+    FE -.->|"Chat messages"| GEMINI
+
+    %% Styling
+    classDef frontend fill:#17212d,stroke:#aab8c8,color:#f1f5f9,stroke-width:1.5px
+    classDef backend fill:#17212d,stroke:#aab8c8,color:#f1f5f9,stroke-width:1.5px
+    classDef database fill:#17212d,stroke:#aab8c8,color:#f1f5f9,stroke-width:1.5px
+    classDef external fill:#17212d,stroke:#aab8c8,color:#f1f5f9,stroke-width:1.5px
+    classDef deployment fill:#17212d,stroke:#aab8c8,color:#f1f5f9,stroke-width:1.5px
+
+    class FE frontend
+    class SEC,AUTH,ROUTES,CTRL,ORDER backend
+    class DB database
+    class CLERK,RAZOR,CLOUD,EMAIL,GEMINI external
+    class CI deployment
+
+    style API fill:#202832,stroke:#aab8c8,color:#f1f5f9,stroke-width:2px
 ```
 
 ### FinTrack API &nbsp;·&nbsp; <sub>Finance management backend</sub>
@@ -103,15 +141,16 @@ I chose PostgreSQL for its relational data model and transaction guarantees, whi
 
 ```mermaid
 flowchart LR
-    CLIENT["API Client"] --> API["Express REST API"]
-    API --> RATE["Rate Limiter"]
-    RATE --> AUTH["JWT Authentication"]
-    AUTH --> RBAC["Role Authorization"]
-    RBAC --> ROUTES["Protected Routes"]
-    ROUTES --> VALIDATE["Input Validation"]
-    VALIDATE --> PRISMA["Prisma ORM"]
-    PRISMA --> DB[("PostgreSQL")]
-    API -.-> DOCS["Swagger UI"]
+    Client[Client / Frontend / Postman] -->|HTTP Request| API[Express REST API]
+    API --> Middleware[Global Middleware\nCORS + JSON Parsing + Rate Limiter]
+    Middleware --> Routes[Route Modules\nAuth / Records / Users / Dashboard]
+    Routes --> Controllers[Controllers\nBusiness Logic]
+    Controllers --> Auth[JWT Authentication + Role Authorization]
+    Controllers --> Prisma[Prisma Client]
+    Prisma --> DB[(Supabase PostgreSQL)]
+
+    Auth -->|Validate token| Controllers
+    Controllers -->|JSON Response| Client
 ```
 
 ---
